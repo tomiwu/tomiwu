@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC322F,100:7B2CBF&height=170&section=header&text=Tomasz%20Wujec&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Scala%20developer%20%C2%B7%2012%2B%20years%20%C2%B7%20backend%20%26%20tooling&descAlignY=58" />
+<img width="100%" src="assets/banner.svg" alt="Tomasz Wujec · Scala developer" />
 
 <p align="center">
   <a href="mailto:wujec.tomasz@gmail.com"><img src="https://img.shields.io/badge/Email-wujec.tomasz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -29,9 +29,9 @@ I care about small reviewable changes, strict CI gates and code that is measurab
 <!-- START:featured -->
 | | |
 |---|---|
-| <a href="https://github.com/tomiwu/mowa"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=mowa&theme=github_dark&hide_border=true" /></a> | **[mowa](https://github.com/tomiwu/mowa)**<br/>_No description yet._<br/>`TypeScript` · ⭐ 0 · —<br/><sub>last push 2026-10-21</sub> |
-| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0 · —<br/><sub>last push 2026-10-20</sub> |
-| <a href="https://github.com/tomiwu/praca-u-podstaw"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=praca-u-podstaw&theme=github_dark&hide_border=true" /></a> | **[praca-u-podstaw](https://github.com/tomiwu/praca-u-podstaw)**<br/>Oddolna platforma polskich projektów open source<br/>— · ⭐ 0 · —<br/><sub>last push 2026-10-19</sub> |
+| <a href="https://github.com/tomiwu/mowa"><b>📦 mowa</b></a> | **[mowa](https://github.com/tomiwu/mowa)**<br/>On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI)<br/>`Swift` · ⭐ 0<br/><sub>last push 2026-10-21</sub> |
+| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" alt="crap4s" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-10-20</sub> |
+| <a href="https://github.com/tomiwu/praca-u-podstaw"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=praca-u-podstaw&theme=github_dark&hide_border=true" alt="praca-u-podstaw" /></a> | **[praca-u-podstaw](https://github.com/tomiwu/praca-u-podstaw)**<br/>Oddolna platforma polskich projektów open source<br/>⭐ 0<br/><sub>last push 2026-10-19</sub> |
 <!-- END:featured -->
 
 #### 🔒 Private automation
@@ -81,7 +81,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- END:languages -->
 
 ## 📡 Live activity
-<sub>Updated daily by <a href=".github/workflows/update-readme.yml">GitHub Actions</a> · <a href="scripts/UpdateReadme.scala">scripts/UpdateReadme.scala</a></sub>
+<sub>Updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a> · <a href="scripts/UpdateReadme.scala">scripts/UpdateReadme.scala</a></sub>
 
 ### 🔀 Latest pull requests
 <!-- START:recent-prs -->
@@ -109,7 +109,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=stars,contribs" />
   <img height="165" src="https://streak-stats.demolab.com?user=tomiwu&theme=github-dark-blue&hide_border=true" />
 </p>
 
@@ -118,4 +118,4 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
   <img alt="contribution snake" src="https://raw.githubusercontent.com/tomiwu/tomiwu/output/github-snake.svg" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:DC322F&height=100&section=footer" />
+<img width="100%" src="assets/footer.svg" alt="" />

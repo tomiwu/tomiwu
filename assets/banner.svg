@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DC322F"/><stop offset="1" stop-color="#7B2CBF"/></linearGradient></defs>
+  <rect width="1280" height="200" fill="url(#g)"/>
+  <path d="M0 160 C 320 120 640 200 960 150 S 1280 140 1280 140 V200 H0Z" fill="#0d1117" opacity="0.35"/>
+  <text x="640" y="95" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#fff">Tomasz Wujec</text>
+  <text x="640" y="140" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="24" fill="#fff" opacity="0.9">Scala developer · functional programming · 12+ years</text>
+</svg>

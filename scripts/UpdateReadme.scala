@@ -71,15 +71,29 @@ object UpdateReadme:
     val recent = ownRepos.filter(_("pushed_at").str >= since).filterNot(r => pinned.contains(r("name").str))
     (pins ++ recent).take(maxFeat)
 
+  /** First sentence of the repo README, skipping headings, badges and HTML. */
+  def readmeSentence(repo: String): Option[String] =
+    scala.util.Try {
+      val b = get(s"/repos/$user/$repo/readme")("content").str.replace("\n", "")
+      new String(java.util.Base64.getDecoder.decode(b), "UTF-8").linesIterator.map(_.trim)
+        .find(l => l.nonEmpty && !l.startsWith("#") && !l.startsWith("<") && !l.startsWith("[!") && !l.startsWith("!["))
+        .map(l => l.split("(?<=\\.)\\s").head)
+    }.toOption.flatten
+
   def featured(since: String): String =
     val rows = featuredRepos(since).map { r =>
       val name   = r("name").str
       val card   = s"https://github-readme-stats.vercel.app/api/pin/?username=$user&repo=$name&theme=github_dark&hide_border=true"
-      val desc   = r("description").strOpt.getOrElse("_No description yet._").replace("|", "\\|")
-      val lang   = r("language").strOpt.fold("—")(l => s"`$l`")
-      val topics = r.obj.get("topics").map(_.arr.map(t => s"`${t.str}`").mkString(" ")).filter(_.nonEmpty).getOrElse("—")
+      val desc   = conf.get(s"description.$name").orElse(r("description").strOpt).orElse(readmeSentence(name))
+        .getOrElse("_No description yet._").replace("|", "\\|")
+      val lang   = conf.get(s"language.$name").orElse(r("language").strOpt).map(l => s"`$l`")
+      val topics = r.obj.get("topics").map(_.arr.map(t => s"`${t.str}`").mkString(" ")).filter(_.nonEmpty)
+      val meta   = (lang.toSeq ++ Seq(s"⭐ ${r("stargazers_count").num.toInt}") ++ topics).mkString(" · ")
+      val overridden = conf.contains(s"description.$name") || conf.contains(s"language.$name") || r("description").isNull
+      val cell = if overridden then s"<a href=\"${r("html_url").str}\"><b>📦 $name</b></a>"
+                 else s"<a href=\"${r("html_url").str}\"><img width=\"300\" src=\"$card\" alt=\"$name\" /></a>"
       val pin    = if pinned.contains(name) then "📌 " else ""
-      s"| <a href=\"${r("html_url").str}\"><img width=\"300\" src=\"$card\" /></a> | $pin**[$name](${r("html_url").str})**<br/>$desc<br/>$lang · ⭐ ${r("stargazers_count").num.toInt} · $topics<br/><sub>last push ${day(r("pushed_at").str)}</sub> |"
+      s"| $cell | $pin**[$name](${r("html_url").str})**<br/>$desc<br/>$meta<br/><sub>last push ${day(r("pushed_at").str)}</sub> |"
     }
     if rows.isEmpty then "_Nothing active right now._"
     else ("| | |" +: "|---|---|" +: rows).mkString("\n")
