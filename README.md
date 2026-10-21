@@ -113,9 +113,5 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
   <img height="165" src="https://streak-stats.demolab.com?user=tomiwu&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomiwu/tomiwu/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/tomiwu/tomiwu/output/github-snake.svg" />
-</picture>
 
 <img width="100%" src="assets/footer.svg" alt="" />
