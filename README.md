@@ -109,7 +109,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&hide=stars,contribs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&hide=stars,contribs&hide_rank=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=tomiwu&theme=github-dark-blue&hide_border=true" />
 </p>
 
