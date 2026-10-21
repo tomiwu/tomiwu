@@ -72,11 +72,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Scala-59.4%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-28.4%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-5.9%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Swift-3.7%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-2.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-43.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-30.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-17.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-4.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-3.0%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -87,11 +87,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟢 open | [Add the full CI: format, lint, build, test and CRAP gate](https://github.com/tomiwu/mowa/pull/24) | `tomiwu/mowa` | 2026-10-21 |
-| 🟣 merged | [Create the Xcode project with app and keyboard targets](https://github.com/tomiwu/mowa/pull/23) | `tomiwu/mowa` | 2026-10-20 |
-| 🟣 merged | [Create the public repository, license, README and labels](https://github.com/tomiwu/mowa/pull/22) | `tomiwu/mowa` | 2026-10-20 |
-| 🟣 merged | [Run the CRAP self-check only in the crap job](https://github.com/tomiwu/crap4s/pull/47) | `tomiwu/crap4s` | 2026-10-20 |
-| 🟣 merged | [Optional end-to-end test of the release artifact on a sample project](https://github.com/tomiwu/crap4s/pull/46) | `tomiwu/crap4s` | 2026-10-20 |
+| 🟣 merged | [Change the CRAP limit from 4 to 6](https://github.com/tomiwu/mowa/pull/33) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Sandcastle: wait for the CI of the new head SHA](https://github.com/tomiwu/mowa/pull/32) | `tomiwu/mowa` | 2026-10-21 |
+| 🟢 open | [ParakeetEngine with FluidAudio and model manager](https://github.com/tomiwu/mowa/pull/31) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Local CRAP gate before push (Linux)](https://github.com/tomiwu/mowa/pull/30) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Select and integrate VAD / endpointing](https://github.com/tomiwu/mowa/pull/29) | `tomiwu/mowa` | 2026-10-21 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
