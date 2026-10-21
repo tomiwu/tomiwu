@@ -47,7 +47,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 - 🧩 **Small, focused PRs** — each change does one thing and is reviewed before merge.
 - 📏 **Written standards** — e.g. `docs/CODING_STANDARDS.md`, PRDs and ADRs give the agent the same context a human would get.
 - 🚦 **Hard CI gates** — formatting, linting, warnings-as-errors and complexity/coverage thresholds, so AI-assisted code meets the same bar as hand-written code.
-- 🔁 **Automation everywhere** — this README itself is refreshed daily by a Scala CLI script in GitHub Actions.
+- 🔁 **Automation everywhere** — this README itself is refreshed every 6 hours by a Scala CLI script in GitHub Actions.
 
 <!-- STACK: DO POTWIERDZENIA (to confirm) — edit the icon list below freely -->
 ## 🧰 Stack
@@ -101,7 +101,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 
 ### 📂 Recently active repositories
 <!-- START:active-repos -->
-- [**mowa**](https://github.com/tomiwu/mowa) · `TypeScript` _(last push 2026-10-21)_
+- [**mowa**](https://github.com/tomiwu/mowa) · `Swift` — On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI) _(last push 2026-10-21)_
 - [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-20)_
 - [**praca-u-podstaw**](https://github.com/tomiwu/praca-u-podstaw) — Oddolna platforma polskich projektów open source _(last push 2026-10-19)_
 <!-- END:active-repos -->
@@ -109,7 +109,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=stars,contribs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&hide=stars,contribs" />
   <img height="165" src="https://streak-stats.demolab.com?user=tomiwu&theme=github-dark-blue&hide_border=true" />
 </p>
 

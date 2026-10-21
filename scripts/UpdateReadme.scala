@@ -53,8 +53,9 @@ object UpdateReadme:
 
   def activeRepos(n: Int, since: String): String =
     ownRepos.filter(_("pushed_at").str >= since).take(n).map { r =>
-      val lang = r("language").strOpt.fold("")(l => s" · `$l`")
-      val desc = r("description").strOpt.fold("")(d => s" — $d")
+      val n    = r("name").str
+      val lang = conf.get(s"language.$n").orElse(r("language").strOpt).fold("")(l => s" · `$l`")
+      val desc = conf.get(s"description.$n").orElse(r("description").strOpt).fold("")(d => s" — $d")
       s"- [**${r("name").str}**](${r("html_url").str})$lang$desc _(last push ${day(r("pushed_at").str)})_"
     }.mkString("\n")
 
