@@ -72,11 +72,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-43.8%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-30.8%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-17.0%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-4.7%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-3.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-56.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-23.6%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-13.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-3.6%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-2.3%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -87,11 +87,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟣 merged | [Change the CRAP limit from 4 to 6](https://github.com/tomiwu/mowa/pull/33) | `tomiwu/mowa` | 2026-10-21 |
-| 🟣 merged | [Sandcastle: wait for the CI of the new head SHA](https://github.com/tomiwu/mowa/pull/32) | `tomiwu/mowa` | 2026-10-21 |
-| 🟢 open | [ParakeetEngine with FluidAudio and model manager](https://github.com/tomiwu/mowa/pull/31) | `tomiwu/mowa` | 2026-10-21 |
-| 🟣 merged | [Local CRAP gate before push (Linux)](https://github.com/tomiwu/mowa/pull/30) | `tomiwu/mowa` | 2026-10-21 |
-| 🟣 merged | [Select and integrate VAD / endpointing](https://github.com/tomiwu/mowa/pull/29) | `tomiwu/mowa` | 2026-10-21 |
+| 🟢 open | [Sandcastle: wait for queued CI, add a second lane](https://github.com/tomiwu/mowa/pull/39) | `tomiwu/mowa` | 2026-10-21 |
+| 🟢 open | [Spike: compare the word list biasing methods](https://github.com/tomiwu/mowa/pull/38) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Polish/English test set and WER script](https://github.com/tomiwu/mowa/pull/37) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Measure latency and memory on a real iPhone](https://github.com/tomiwu/mowa/pull/36) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Word list UI and storage shared with the keyboard](https://github.com/tomiwu/mowa/pull/35) | `tomiwu/mowa` | 2026-10-21 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
