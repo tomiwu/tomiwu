@@ -1,96 +1,121 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC322F,100:7B2CBF&height=170&section=header&text=Tomasz%20Wujec&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Scala%20developer%20%C2%B7%2012%2B%20years%20%C2%B7%20backend%20%26%20tooling&descAlignY=58" />
 
-# Hello, I'm Tomasz Wujec! 👋
+<p align="center">
+  <a href="mailto:wujec.tomasz@gmail.com"><img src="https://img.shields.io/badge/Email-wujec.tomasz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomasz-wujec-86633148/"><img src="https://img.shields.io/badge/LinkedIn-Tomasz%20Wujec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-remote%20%C2%B7%20B2B%20%2F%20UoP-2ea44f?style=for-the-badge"/>
+</p>
 
-💻 **Senior Software Engineer** &nbsp;|&nbsp; ⚙️ **Scala & Akka Specialist** &nbsp;|&nbsp; 🚀 **Backend Enthusiast** &nbsp;|&nbsp; 🤖 **AI & LLM Explorer**
+## 👋 About me
 
----
+I'm a **Scala developer with 12+ years of experience** building backend systems — asynchronous, concurrent and streaming services.
+Lately I build developer tooling for **Scala 3**, an on-device dictation app for **iOS**, and automations that run without servers.
+I'm into **functional programming** and strongly, statically typed languages — I like type-driven design and catching mistakes at compile time rather than in production. **ZIO** is my go-to effect library.
+I care about small reviewable changes, strict CI gates and code that is measurable, not just "working".
 
-### 🔍 About Me
+## 🟢 Open to work
 
-With nearly a decade of experience in software engineering, I specialize in building **high-performance, asynchronous, and concurrent systems**. I'm a big fan of Scala and the Akka framework, which have helped me craft some awesome WebRTC-based multimedia and video conferencing platforms.
+| What | Details |
+|---|---|
+| **Mode** | 100% remote |
+| **Contract** | B2B or employment contract (UoP) |
+| **Focus** | Scala backend, streaming, developer tooling |
+| **Contact** | [wujec.tomasz@gmail.com](mailto:wujec.tomasz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tomasz-wujec-86633148/) |
 
-I love diving into **scalable** and **reliable** backend solutions. Continuously exploring new technologies, I'm driven by the challenges that push the boundaries of what's possible.
+## 🔨 Featured projects
 
----
+<sub>Generated automatically from my own active repositories (configure in <a href="profile.conf">profile.conf</a>).</sub>
 
-### 🎯 My Mission
+<!-- START:featured -->
+| | |
+|---|---|
+| <a href="https://github.com/tomiwu/mowa"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=mowa&theme=github_dark&hide_border=true" /></a> | **[mowa](https://github.com/tomiwu/mowa)**<br/>_No description yet._<br/>`TypeScript` · ⭐ 0 · —<br/><sub>last push 2026-10-21</sub> |
+| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0 · —<br/><sub>last push 2026-10-20</sub> |
+| <a href="https://github.com/tomiwu/praca-u-podstaw"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=praca-u-podstaw&theme=github_dark&hide_border=true" /></a> | **[praca-u-podstaw](https://github.com/tomiwu/praca-u-podstaw)**<br/>Oddolna platforma polskich projektów open source<br/>— · ⭐ 0 · —<br/><sub>last push 2026-10-19</sub> |
+<!-- END:featured -->
 
-To build robust and efficient systems that truly make a difference. I'm committed to continuous learning and embracing cutting-edge tech to tackle real-world problems.
+#### 🔒 Private automation
 
----
+| Project | What it does | Highlights |
+|---|---|---|
+| **librus-watch** _(private)_ | Serverless school-gradebook notifier for parents | TypeScript on the Kody platform; 7 watchers (grades, messages, announcements, trips, homework, absences, substitutions) with a silent baseline on first run; Telegram notifications to both parents at 07:00 and 18:00 Warsaw time; Telegram commands (`/librus_check`, `/librus_messages`, `/librus_terminarz`, pause/resume); outbox queue, one-time failure and recovery alerts, behaviour tests against fakes. An AI assistant uses the same connection to summarise school messages. |
 
-### 📚 Currently Exploring
+## 🤖 Working with AI agents
 
-- **Large Language Models (LLMs) & AI**: Exploring the exciting world of generative AI and autonomous agents. Recently completed the **AI Devs** course.
-- **Event Streaming & Data Processing**: Working with **Akka Streams** and real-time data pipelines with Kafka.
-- **Cloud Services & Infrastructure**: Expanding my expertise with AWS, Kubernetes, and Terraform.
-- **Electronics & Embedded Systems**: Tinkering with hardware projects and IoT gadgets.
-- **3D Printing**: Designing and printing cool stuff.
-- **Culinary Arts**: Experimenting in the kitchen, thanks to my professional culinary background.
+I use AI coding agents — **Claude Code** and **Cursor** — as pair programmers, and treat their output like any other contributor's:
 
----
+- 🧩 **Small, focused PRs** — each change does one thing and is reviewed before merge.
+- 📏 **Written standards** — e.g. `docs/CODING_STANDARDS.md`, PRDs and ADRs give the agent the same context a human would get.
+- 🚦 **Hard CI gates** — formatting, linting, warnings-as-errors and complexity/coverage thresholds, so AI-assisted code meets the same bar as hand-written code.
+- 🔁 **Automation everywhere** — this README itself is refreshed daily by a Scala CLI script in GitHub Actions.
 
-### 🎓 Certifications
+<!-- STACK: DO POTWIERDZENIA (to confirm) — edit the icon list below freely -->
+## 🧰 Stack
 
-- **AI Devs Course Completion Certificate**: A 5-week practical course on combining generative AI tools with application logic and automation tools. [View Certificate](https://credsverse.com/credentials/bc10bc78-2550-4014-849e-c37e886cb335)
+<p>
+  <img src="https://img.shields.io/badge/Scala%203-DC322F?style=flat-square&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZIO-0B4F8A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Functional%20programming-5C2D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scala%20CLI-DC322F?style=flat-square&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sbt-380D09?style=flat-square&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mill-4B4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/fs2-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+<!-- /STACK -->
 
----
+#### Languages in my active repos <sub>(auto, by bytes of code)</sub>
+<!-- START:languages -->
+<p>
+<img src="https://img.shields.io/badge/Scala-59.4%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-28.4%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-5.9%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-3.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-2.7%25-30363d?style=flat-square" />
+</p>
+<!-- END:languages -->
 
-### ⚒️ Technical Skills
+## 📡 Live activity
+<sub>Updated daily by <a href=".github/workflows/update-readme.yml">GitHub Actions</a> · <a href="scripts/UpdateReadme.scala">scripts/UpdateReadme.scala</a></sub>
 
-#### Programming Languages
+### 🔀 Latest pull requests
+<!-- START:recent-prs -->
+| Status | Pull request | Repository | Opened |
+|---|---|---|---|
+| 🟢 open | [Add the full CI: format, lint, build, test and CRAP gate](https://github.com/tomiwu/mowa/pull/24) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Create the Xcode project with app and keyboard targets](https://github.com/tomiwu/mowa/pull/23) | `tomiwu/mowa` | 2026-10-20 |
+| 🟣 merged | [Create the public repository, license, README and labels](https://github.com/tomiwu/mowa/pull/22) | `tomiwu/mowa` | 2026-10-20 |
+| 🟣 merged | [Run the CRAP self-check only in the crap job](https://github.com/tomiwu/crap4s/pull/47) | `tomiwu/crap4s` | 2026-10-20 |
+| 🟣 merged | [Optional end-to-end test of the release artifact on a sample project](https://github.com/tomiwu/crap4s/pull/46) | `tomiwu/crap4s` | 2026-10-20 |
+<!-- END:recent-prs -->
 
-![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🚀 Latest releases
+<!-- START:releases -->
+- **crap4s** [v0.1.0](https://github.com/tomiwu/crap4s/releases/tag/v0.1.0) — 2026-10-20
+<!-- END:releases -->
 
-#### Frameworks & Libraries
+### 📂 Recently active repositories
+<!-- START:active-repos -->
+- [**mowa**](https://github.com/tomiwu/mowa) · `TypeScript` _(last push 2026-10-21)_
+- [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-20)_
+- [**praca-u-podstaw**](https://github.com/tomiwu/praca-u-podstaw) — Oddolna platforma polskich projektów open source _(last push 2026-10-19)_
+<!-- END:active-repos -->
 
-![Akka](https://img.shields.io/badge/Akka-%23000000.svg?style=for-the-badge&logo=akka&logoColor=white)
-![Akka Streams](https://img.shields.io/badge/Akka%20Streams-%23000000.svg?style=for-the-badge&logo=akka&logoColor=white)
-![Play Framework](https://img.shields.io/badge/Play-%2300AF66.svg?style=for-the-badge&logo=play&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-%23BB0000.svg?style=for-the-badge&logo=webrtc&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+## 📊 Stats
 
-#### DevOps & Cloud
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomiwu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=tomiwu&theme=github-dark-blue&hide_border=true" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomiwu/tomiwu/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/tomiwu/tomiwu/output/github-snake.svg" />
+</picture>
 
-#### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%23AABBCC.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-%23FF7E00.svg?style=for-the-badge&logo=3dprinting&logoColor=white)
-
----
-
-### 🎾 Interests & Hobbies
-
-Outside of the tech world, I have a zest for life and adventure:
-
-- **Sports Enthusiast**: Passionate about volleyball, basketball, downhill biking, wakeboarding, kitesurfing, and skiing.
-- **Maker at Heart**: Enjoy experimenting with electronics, embedded systems, and pushing the limits of my 3D printer.
-- **Culinary Explorer**: Cooking up delicious meals, inspired by my professional culinary background.
-
----
-
-### 📫 Let's Connect
-
-I'm always open to connecting with like-minded individuals. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasz-wujec-86633148/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomiwu)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wujec.tomasz@gmail.com)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:DC322F&height=100&section=footer" />
