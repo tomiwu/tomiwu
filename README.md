@@ -72,11 +72,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-60.6%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-20.2%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-13.6%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-3.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-2.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-64.6%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-17.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-12.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-3.3%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-1.8%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -87,11 +87,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟢 open | [Licenses screen and README attribution](https://github.com/tomiwu/mowa/pull/44) | `tomiwu/mowa` | 2026-10-22 |
-| 🟣 merged | [WhisperEngine with WhisperKit and model selection in Settings](https://github.com/tomiwu/mowa/pull/43) | `tomiwu/mowa` | 2026-10-22 |
-| 🟣 merged | [Implement the selected word list method and measure name accuracy](https://github.com/tomiwu/mowa/pull/42) | `tomiwu/mowa` | 2026-10-21 |
-| 🟣 merged | [Spike: on-device LLM clean-up with Foundation Models](https://github.com/tomiwu/mowa/pull/41) | `tomiwu/mowa` | 2026-10-21 |
-| 🟣 merged | [Local history: list, copy, delete one item, delete all](https://github.com/tomiwu/mowa/pull/40) | `tomiwu/mowa` | 2026-10-21 |
+| 🟣 merged | [Limit the audio buffers to 15 seconds per utterance](https://github.com/tomiwu/mowa/pull/63) | `tomiwu/mowa` | 2026-10-22 |
+| 🟣 merged | [Keep a single in-flight load in LoadOnce](https://github.com/tomiwu/mowa/pull/62) | `tomiwu/mowa` | 2026-10-22 |
+| 🟣 merged | [Release the model on a memory warning and in the background](https://github.com/tomiwu/mowa/pull/61) | `tomiwu/mowa` | 2026-10-22 |
+| 🟣 merged | [Select the Whisper variant from the device identifier](https://github.com/tomiwu/mowa/pull/60) | `tomiwu/mowa` | 2026-10-22 |
+| 🟣 merged | [Use a smaller Parakeet model as the default and fix the size label](https://github.com/tomiwu/mowa/pull/59) | `tomiwu/mowa` | 2026-10-22 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
