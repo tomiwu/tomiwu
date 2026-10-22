@@ -72,11 +72,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-61.0%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-22.4%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-11.4%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-3.2%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-1.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-59.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-24.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-11.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-3.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-1.6%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -87,11 +87,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟣 merged | [Issue trigger workflow that calls the loop webhook](https://github.com/tomiwu/crap4s/pull/59) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Short README with data-flow diagram, docs/usage.md, PRD update](https://github.com/tomiwu/crap4s/pull/58) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Human output format: aligned table with colour](https://github.com/tomiwu/crap4s/pull/57) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Agent output format as default, remove CSV, exit codes 0/1/2](https://github.com/tomiwu/crap4s/pull/56) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Ports UnitSource, CoverageSource, ReportWriter and a flag registry](https://github.com/tomiwu/crap4s/pull/55) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Refactor: capabilities as opaque function types, add Mapping and Scoring](https://github.com/tomiwu/crap4s/pull/77) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Docs: diagram matches Pipeline.scala, capability-style rule](https://github.com/tomiwu/crap4s/pull/71) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Refactor: capability traits, Pipeline.scala and App.scala wiring](https://github.com/tomiwu/crap4s/pull/70) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Refactor: traverse helper, enum Format, typed Outcome and ExitCode](https://github.com/tomiwu/crap4s/pull/69) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Refactor: packages by pipeline stage](https://github.com/tomiwu/crap4s/pull/68) | `tomiwu/crap4s` | 2026-10-22 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
