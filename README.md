@@ -73,7 +73,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:languages -->
 <p>
 <img src="https://img.shields.io/badge/Swift-52.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-33.2%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-33.1%25-30363d?style=flat-square" />
 <img src="https://img.shields.io/badge/TypeScript-9.8%25-30363d?style=flat-square" />
 <img src="https://img.shields.io/badge/Shell-3.2%25-30363d?style=flat-square" />
 <img src="https://img.shields.io/badge/Dockerfile-1.4%25-30363d?style=flat-square" />
@@ -87,11 +87,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
+| 🟣 merged | [Refactor: one generic Stage opaque type with total and apply constructors](https://github.com/tomiwu/crap4s/pull/99) | `tomiwu/crap4s` | 2026-10-23 |
 | 🟣 merged | [Docs: error and side-effect rules in CODING_STANDARDS.md and Sandcastle prompts](https://github.com/tomiwu/crap4s/pull/97) | `tomiwu/crap4s` | 2026-10-23 |
 | 🟣 merged | [Test: CLI with bad inputs exits 2 with no stack trace](https://github.com/tomiwu/crap4s/pull/96) | `tomiwu/crap4s` | 2026-10-23 |
 | 🟣 merged | [CI: Scalafix rules NoThrow, NoUnsafeCall and SideEffectsAtEdge](https://github.com/tomiwu/crap4s/pull/95) | `tomiwu/crap4s` | 2026-10-23 |
 | 🟣 merged | [Errors: wrap all exceptions in scoverage input and InputFiles as typed errors](https://github.com/tomiwu/crap4s/pull/94) | `tomiwu/crap4s` | 2026-10-23 |
-| 🟣 merged | [Side effects: Terminal, Env and Exit capabilities and a last-resort guard in Main](https://github.com/tomiwu/crap4s/pull/93) | `tomiwu/crap4s` | 2026-10-23 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
