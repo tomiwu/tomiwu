@@ -29,7 +29,7 @@ I care about small reviewable changes, strict CI gates and code that is measurab
 <!-- START:featured -->
 | | |
 |---|---|
-| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" alt="crap4s" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-10-22</sub> |
+| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" alt="crap4s" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-10-23</sub> |
 | <a href="https://github.com/tomiwu/mowa"><b>📦 mowa</b></a> | **[mowa](https://github.com/tomiwu/mowa)**<br/>On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI)<br/>`Swift` · ⭐ 0<br/><sub>last push 2026-10-22</sub> |
 | <a href="https://github.com/tomiwu/praca-u-podstaw"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=praca-u-podstaw&theme=github_dark&hide_border=true" alt="praca-u-podstaw" /></a> | **[praca-u-podstaw](https://github.com/tomiwu/praca-u-podstaw)**<br/>Oddolna platforma polskich projektów open source<br/>⭐ 0<br/><sub>last push 2026-10-19</sub> |
 <!-- END:featured -->
@@ -72,11 +72,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-56.8%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-27.7%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-10.6%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-2.9%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-1.5%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-52.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-33.2%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-9.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-3.2%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-1.4%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -87,21 +87,23 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟣 merged | [Docs: new rules in CODING_STANDARDS.md and the Sandcastle prompts](https://github.com/tomiwu/crap4s/pull/83) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Lint: Scalafix rules for capability style](https://github.com/tomiwu/crap4s/pull/82) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Lint: local Scalafix rule PassThrough with limit 0](https://github.com/tomiwu/crap4s/pull/81) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Refactor: callable capabilities and a via chain in Pipeline.scala](https://github.com/tomiwu/crap4s/pull/80) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Refactor: top-level defs in place of helper objects](https://github.com/tomiwu/crap4s/pull/78) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Docs: error and side-effect rules in CODING_STANDARDS.md and Sandcastle prompts](https://github.com/tomiwu/crap4s/pull/97) | `tomiwu/crap4s` | 2026-10-23 |
+| 🟣 merged | [Test: CLI with bad inputs exits 2 with no stack trace](https://github.com/tomiwu/crap4s/pull/96) | `tomiwu/crap4s` | 2026-10-23 |
+| 🟣 merged | [CI: Scalafix rules NoThrow, NoUnsafeCall and SideEffectsAtEdge](https://github.com/tomiwu/crap4s/pull/95) | `tomiwu/crap4s` | 2026-10-23 |
+| 🟣 merged | [Errors: wrap all exceptions in scoverage input and InputFiles as typed errors](https://github.com/tomiwu/crap4s/pull/94) | `tomiwu/crap4s` | 2026-10-23 |
+| 🟣 merged | [Side effects: Terminal, Env and Exit capabilities and a last-resort guard in Main](https://github.com/tomiwu/crap4s/pull/93) | `tomiwu/crap4s` | 2026-10-23 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
 <!-- START:releases -->
+- **crap4s** [v0.2.1](https://github.com/tomiwu/crap4s/releases/tag/v0.2.1) — 2026-10-23
+- **crap4s** [v0.2.0](https://github.com/tomiwu/crap4s/releases/tag/v0.2.0) — 2026-10-23
 - **crap4s** [v0.1.0](https://github.com/tomiwu/crap4s/releases/tag/v0.1.0) — 2026-10-20
 <!-- END:releases -->
 
 ### 📂 Recently active repositories
 <!-- START:active-repos -->
-- [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-22)_
+- [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-23)_
 - [**mowa**](https://github.com/tomiwu/mowa) · `Swift` — On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI) _(last push 2026-10-22)_
 - [**praca-u-podstaw**](https://github.com/tomiwu/praca-u-podstaw) — Oddolna platforma polskich projektów open source _(last push 2026-10-19)_
 <!-- END:active-repos -->
