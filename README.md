@@ -72,11 +72,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-59.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-24.7%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-11.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-3.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-1.6%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-56.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-27.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-10.6%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-2.9%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-1.5%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -87,11 +87,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟣 merged | [Refactor: capabilities as opaque function types, add Mapping and Scoring](https://github.com/tomiwu/crap4s/pull/77) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Docs: diagram matches Pipeline.scala, capability-style rule](https://github.com/tomiwu/crap4s/pull/71) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Refactor: capability traits, Pipeline.scala and App.scala wiring](https://github.com/tomiwu/crap4s/pull/70) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Refactor: traverse helper, enum Format, typed Outcome and ExitCode](https://github.com/tomiwu/crap4s/pull/69) | `tomiwu/crap4s` | 2026-10-22 |
-| 🟣 merged | [Refactor: packages by pipeline stage](https://github.com/tomiwu/crap4s/pull/68) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Docs: new rules in CODING_STANDARDS.md and the Sandcastle prompts](https://github.com/tomiwu/crap4s/pull/83) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Lint: Scalafix rules for capability style](https://github.com/tomiwu/crap4s/pull/82) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Lint: local Scalafix rule PassThrough with limit 0](https://github.com/tomiwu/crap4s/pull/81) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Refactor: callable capabilities and a via chain in Pipeline.scala](https://github.com/tomiwu/crap4s/pull/80) | `tomiwu/crap4s` | 2026-10-22 |
+| 🟣 merged | [Refactor: top-level defs in place of helper objects](https://github.com/tomiwu/crap4s/pull/78) | `tomiwu/crap4s` | 2026-10-22 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
