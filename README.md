@@ -29,7 +29,7 @@ I care about small reviewable changes, strict CI gates and code that is measurab
 <!-- START:featured -->
 | | |
 |---|---|
-| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" alt="crap4s" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-10-23</sub> |
+| <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" alt="crap4s" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-10-24</sub> |
 | <a href="https://github.com/tomiwu/mowa"><b>📦 mowa</b></a> | **[mowa](https://github.com/tomiwu/mowa)**<br/>On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI)<br/>`Swift` · ⭐ 0<br/><sub>last push 2026-10-22</sub> |
 | <a href="https://github.com/tomiwu/praca-u-podstaw"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=praca-u-podstaw&theme=github_dark&hide_border=true" alt="praca-u-podstaw" /></a> | **[praca-u-podstaw](https://github.com/tomiwu/praca-u-podstaw)**<br/>Oddolna platforma polskich projektów open source<br/>⭐ 0<br/><sub>last push 2026-10-19</sub> |
 <!-- END:featured -->
@@ -103,7 +103,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 
 ### 📂 Recently active repositories
 <!-- START:active-repos -->
-- [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-23)_
+- [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-24)_
 - [**mowa**](https://github.com/tomiwu/mowa) · `Swift` — On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI) _(last push 2026-10-22)_
 - [**praca-u-podstaw**](https://github.com/tomiwu/praca-u-podstaw) — Oddolna platforma polskich projektów open source _(last push 2026-10-19)_
 <!-- END:active-repos -->
