@@ -29,7 +29,7 @@ I care about small reviewable changes, strict CI gates and code that is measurab
 <!-- START:featured -->
 | | |
 |---|---|
-| <a href="https://github.com/tomiwu/meeseeks"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=meeseeks&theme=github_dark&hide_border=true" alt="meeseeks" /></a> | **[meeseeks](https://github.com/tomiwu/meeseeks)**<br/>Mr. Meeseeks style task bot (fan project)<br/>`TypeScript` · ⭐ 0<br/><sub>last push 2026-10-31</sub> |
+| <a href="https://github.com/tomiwu/meeseeks"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=meeseeks&theme=github_dark&hide_border=true" alt="meeseeks" /></a> | **[meeseeks](https://github.com/tomiwu/meeseeks)**<br/>Mr. Meeseeks style task bot (fan project)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-11-01</sub> |
 | <a href="https://github.com/tomiwu/crap4s"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=crap4s&theme=github_dark&hide_border=true" alt="crap4s" /></a> | **[crap4s](https://github.com/tomiwu/crap4s)**<br/>CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI)<br/>`Scala` · ⭐ 0<br/><sub>last push 2026-10-24</sub> |
 | <a href="https://github.com/tomiwu/mowa"><b>📦 mowa</b></a> | **[mowa](https://github.com/tomiwu/mowa)**<br/>On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI)<br/>`Swift` · ⭐ 0<br/><sub>last push 2026-10-22</sub> |
 | <a href="https://github.com/tomiwu/praca-u-podstaw"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwu&repo=praca-u-podstaw&theme=github_dark&hide_border=true" alt="praca-u-podstaw" /></a> | **[praca-u-podstaw](https://github.com/tomiwu/praca-u-podstaw)**<br/>Oddolna platforma polskich projektów open source<br/>⭐ 0<br/><sub>last push 2026-10-19</sub> |
@@ -73,11 +73,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-51.3%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-32.7%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-10.7%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-3.2%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-1.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-50.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-34.3%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-10.5%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-3.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-1.7%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -88,11 +88,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟢 open | [Test project: sbt 2.0.12, Scala 3.10.0/3.9.0, Kyo, Pekko 1.7.1, H2 journal, 2-node cluster, CI (#1)](https://github.com/tomiwu/meeseeks/pull/29) | `tomiwu/meeseeks` | 2026-10-31 |
+| 🟣 merged | [Module split dev/runtime with CI import check (#2)](https://github.com/tomiwu/meeseeks/pull/30) | `tomiwu/meeseeks` | 2026-11-01 |
+| 🟣 merged | [Test project: sbt 2.0.12, Scala 3.10.0/3.9.0, Kyo, Pekko 1.7.1, H2 journal, 2-node cluster, CI (#1)](https://github.com/tomiwu/meeseeks/pull/29) | `tomiwu/meeseeks` | 2026-10-31 |
 | 🟣 merged | [CI workflow with required jobs and branch protection on main (#24)](https://github.com/tomiwu/meeseeks/pull/28) | `tomiwu/meeseeks` | 2026-10-31 |
 | 🟣 merged | [CI workflow with required jobs and branch protection on main (#24)](https://github.com/tomiwu/meeseeks/pull/27) | `tomiwu/meeseeks` | 2026-10-31 |
 | 🟣 merged | [Add Sandcastle loop configuration](https://github.com/tomiwu/meeseeks/pull/26) | `tomiwu/meeseeks` | 2026-10-31 |
-| 🟣 merged | [Refactor: one generic Stage opaque type with total and apply constructors](https://github.com/tomiwu/crap4s/pull/99) | `tomiwu/crap4s` | 2026-10-23 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
@@ -104,7 +104,7 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 
 ### 📂 Recently active repositories
 <!-- START:active-repos -->
-- [**meeseeks**](https://github.com/tomiwu/meeseeks) · `TypeScript` — Mr. Meeseeks style task bot (fan project) _(last push 2026-10-31)_
+- [**meeseeks**](https://github.com/tomiwu/meeseeks) · `Scala` — Mr. Meeseeks style task bot (fan project) _(last push 2026-11-01)_
 - [**crap4s**](https://github.com/tomiwu/crap4s) · `Scala` — CRAP score, cyclomatic complexity and coverage for Scala 3 (TASTy + Scala CLI) _(last push 2026-10-24)_
 - [**mowa**](https://github.com/tomiwu/mowa) · `Swift` — On-device Polish/English dictation keyboard for iOS (Swift/SwiftUI) _(last push 2026-10-22)_
 - [**praca-u-podstaw**](https://github.com/tomiwu/praca-u-podstaw) — Oddolna platforma polskich projektów open source _(last push 2026-10-19)_
