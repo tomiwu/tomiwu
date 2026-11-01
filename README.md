@@ -73,11 +73,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Swift-50.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Scala-34.3%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-10.5%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-3.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerfile-1.7%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-47.5%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-37.8%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-9.9%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-2.9%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Dockerfile-1.6%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
 
@@ -88,11 +88,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
+| 🟢 open | [Event journal and serialization: Jackson CBOR, adapters, writerId (#5)](https://github.com/tomiwu/meeseeks/pull/34) | `tomiwu/meeseeks` | 2026-11-01 |
+| 🟣 merged | [Task model and gateway: goal and check, refuse task with no check (#4)](https://github.com/tomiwu/meeseeks/pull/33) | `tomiwu/meeseeks` | 2026-11-01 |
+| 🟣 merged | [Task model and gateway: goal and check, refuse task with no check (#4)](https://github.com/tomiwu/meeseeks/pull/32) | `tomiwu/meeseeks` | 2026-11-01 |
+| 🟣 merged | [In-memory fakes for brain, sandbox, chat, worker, oracle (#3)](https://github.com/tomiwu/meeseeks/pull/31) | `tomiwu/meeseeks` | 2026-11-01 |
 | 🟣 merged | [Module split dev/runtime with CI import check (#2)](https://github.com/tomiwu/meeseeks/pull/30) | `tomiwu/meeseeks` | 2026-11-01 |
-| 🟣 merged | [Test project: sbt 2.0.12, Scala 3.10.0/3.9.0, Kyo, Pekko 1.7.1, H2 journal, 2-node cluster, CI (#1)](https://github.com/tomiwu/meeseeks/pull/29) | `tomiwu/meeseeks` | 2026-10-31 |
-| 🟣 merged | [CI workflow with required jobs and branch protection on main (#24)](https://github.com/tomiwu/meeseeks/pull/28) | `tomiwu/meeseeks` | 2026-10-31 |
-| 🟣 merged | [CI workflow with required jobs and branch protection on main (#24)](https://github.com/tomiwu/meeseeks/pull/27) | `tomiwu/meeseeks` | 2026-10-31 |
-| 🟣 merged | [Add Sandcastle loop configuration](https://github.com/tomiwu/meeseeks/pull/26) | `tomiwu/meeseeks` | 2026-10-31 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
