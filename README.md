@@ -73,10 +73,10 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Scala-45.0%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Swift-41.8%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-8.9%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Shell-2.6%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-53.2%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-34.1%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-9.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-2.1%25-30363d?style=flat-square" />
 <img src="https://img.shields.io/badge/Dockerfile-1.4%25-30363d?style=flat-square" />
 </p>
 <!-- END:languages -->
@@ -88,11 +88,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
-| 🟢 open | [Chat channel: Grok bot adapter with Telegram fallback (#17)](https://github.com/tomiwu/meeseeks/pull/45) | `tomiwu/meeseeks` | 2026-11-05 |
-| 🟣 merged | [Research: Grok bot channel API and Telegram fallback (#16)](https://github.com/tomiwu/meeseeks/pull/44) | `tomiwu/meeseeks` | 2026-11-05 |
-| 🟣 merged | [Pluggable brain and oracle backends: subscription, API key, local model (#13)](https://github.com/tomiwu/meeseeks/pull/43) | `tomiwu/meeseeks` | 2026-11-05 |
-| 🟣 merged | [Build check runner and separate test-writer rule (#12)](https://github.com/tomiwu/meeseeks/pull/42) | `tomiwu/meeseeks` | 2026-11-05 |
-| 🟣 merged | [Loop: stop duplicate PRs after merge](https://github.com/tomiwu/meeseeks/pull/41) | `tomiwu/meeseeks` | 2026-11-04 |
+| 🟣 merged | [Jev oracle (optional, off by default) (#15)](https://github.com/tomiwu/meeseeks/pull/59) | `tomiwu/meeseeks` | 2026-11-05 |
+| 🟣 merged | [Sandcastle and monitor configuration (#25)](https://github.com/tomiwu/meeseeks/pull/58) | `tomiwu/meeseeks` | 2026-11-05 |
+| 🟣 merged | [Kill switch end-to-end acceptance test (#22)](https://github.com/tomiwu/meeseeks/pull/57) | `tomiwu/meeseeks` | 2026-11-05 |
+| 🟣 merged | [Cluster workers with certificates (mTLS) (#21)](https://github.com/tomiwu/meeseeks/pull/56) | `tomiwu/meeseeks` | 2026-11-05 |
+| 🟣 merged | [Protocol close to A2A and short-lived per-process tokens (#20)](https://github.com/tomiwu/meeseeks/pull/55) | `tomiwu/meeseeks` | 2026-11-05 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
