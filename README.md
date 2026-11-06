@@ -73,9 +73,9 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 #### Languages in my active repos <sub>(auto, by bytes of code)</sub>
 <!-- START:languages -->
 <p>
-<img src="https://img.shields.io/badge/Scala-53.2%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/Swift-34.1%25-30363d?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-9.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Scala-54.0%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-33.5%25-30363d?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-8.8%25-30363d?style=flat-square" />
 <img src="https://img.shields.io/badge/Shell-2.1%25-30363d?style=flat-square" />
 <img src="https://img.shields.io/badge/Dockerfile-1.4%25-30363d?style=flat-square" />
 </p>
@@ -88,11 +88,11 @@ I use AI coding agents — **Claude Code** and **Cursor** — as pair programmer
 <!-- START:recent-prs -->
 | Status | Pull request | Repository | Opened |
 |---|---|---|---|
+| 🟣 merged | [Server Main entry point and production ActorSystem bootstrap (#62)](https://github.com/tomiwu/meeseeks/pull/68) | `tomiwu/meeseeks` | 2026-11-05 |
 | 🟣 merged | [Jev oracle (optional, off by default) (#15)](https://github.com/tomiwu/meeseeks/pull/59) | `tomiwu/meeseeks` | 2026-11-05 |
 | 🟣 merged | [Sandcastle and monitor configuration (#25)](https://github.com/tomiwu/meeseeks/pull/58) | `tomiwu/meeseeks` | 2026-11-05 |
 | 🟣 merged | [Kill switch end-to-end acceptance test (#22)](https://github.com/tomiwu/meeseeks/pull/57) | `tomiwu/meeseeks` | 2026-11-05 |
 | 🟣 merged | [Cluster workers with certificates (mTLS) (#21)](https://github.com/tomiwu/meeseeks/pull/56) | `tomiwu/meeseeks` | 2026-11-05 |
-| 🟣 merged | [Protocol close to A2A and short-lived per-process tokens (#20)](https://github.com/tomiwu/meeseeks/pull/55) | `tomiwu/meeseeks` | 2026-11-05 |
 <!-- END:recent-prs -->
 
 ### 🚀 Latest releases
